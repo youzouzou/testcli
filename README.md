@@ -1,2 +1,2 @@
 # testcli
- 测试脚手架
+ 脚手架demo
